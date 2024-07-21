@@ -2,6 +2,20 @@
 
 Welcome to the Payment API! This project demonstrates how to integrate PayPal API for online payments. Below are some useful links and information.
 
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Pre-Requisites](#pre-requisites)
+- [Installation](#installation)
+- [PayPal API Integration](#paypal-api-integration)
+- [Setup PayPal Sandbox Account](#setup-paypal-sandbox-account)
+- [Usage](#usage)
+- [Troubleshooting](#troubleshooting)
+- [Legal](#legal)
+- [Author](#author)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Features
 - Initiate PayPal payments securely.
 - Handle payment success and cancellation scenarios.
@@ -49,6 +63,18 @@ To obtain PayPal sandbox credentials:
 - Ensure your PayPal sandbox credentials are correctly configured.
 - Check server logs (`console.log`) for any errors or issues during payment initiation.
 - Review PayPal's API documentation for troubleshooting specific errors.
+
+## Author
+
+**Bhumika Bhatt**
+
+## Contributing
+
+Feel free to contribute by submitting issues or pull requests. If you have any suggestions or improvements, let us know!
+
+## License
+
+This project is licensed under the MIT License - see the [License](https://opensource.org/licenses/MIT) file for details.
 
 ## Enjoy! 🌟
 
